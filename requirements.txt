@@ -1,0 +1,5 @@
+Flask==1.0.2
+request==2018.11.20
+Pandas==0.24.1
+xlrd==1.2.0
+wtforms==2.2.1
