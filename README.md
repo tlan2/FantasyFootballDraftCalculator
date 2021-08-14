@@ -2,10 +2,8 @@
 
 ![Home Page](https://ik.imagekit.io/tlan2/fantasy_football_calculator/home_Ysd_rU4m6.png)
 
-Created and deployed full stack website Fantasy Football Auction Draft Calculator using Python’s Pandas and Flask packages. This was my capstone for my accelerated graduate prep program called New Beginnings and first major project.
+Created and deployed full-stack Fantasy Football Auction Draft Calculator website using Python’s Pandas and Flask packages. This was my capstone for my accelerated graduate prep program called New Beginnings and first major project.
 
-### Website
-[http://tlan2.pythonanywhere.com/](http://tlan2.pythonanywhere.com/)
 
 ### Other Pages
 ![ESPN](https://ik.imagekit.io/tlan2/fantasy_football_calculator/espn_EJ8YP7FYf.png)
